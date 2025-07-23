@@ -1,0 +1,47 @@
+1. Basics of testing and working with Git:
+
+Understanding the theory of testing and automation
+
+Git and GitHub skills (versions, commits, branches, pull requests)
+
+2. Programming in JavaScript and TypeScript:
+
+Strong command of JavaScript: variables, arrays, objects, closures, this, OOP, async/await
+
+Knowledge of TypeScript: typing, interfaces, generics, classes
+
+Code quality settings: ESLint, Prettier, Husky
+
+3. UI testing:
+
+Writing autotests with WebdriverIO and Playwright
+
+Creating your Own Test Automation Framework
+
+Report generation, flexible environment configuration
+
+4. API testing:
+
+Testing the REST API
+
+Integration of API requests with UI tests (data preparation/cleaning)
+
+5. BDD (Behaviour-Driven Development):
+
+Writing BDD-style tests using Cucumber
+
+Improved test readability for the team and business
+
+6. Modern testing practices:
+
+Integration of UI and API testing into a single strategy
+
+Working with testing pyramids
+
+Using mockups and screenshot testing
+
+7. Integration with CI/CD:
+
+Setting up test autorun in pipelines
+
+Embedding tests in the development process
